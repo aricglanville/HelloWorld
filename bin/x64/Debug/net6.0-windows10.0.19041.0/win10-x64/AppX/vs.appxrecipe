@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>a4ecdf71-e8cd-4fb6-92d6-338c8441d8ba</PackageIdentityName>
     <PackageIdentityPublisher>CN=novel</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\novel\Desktop\HelloWorld\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>I:\School stuff\CS4760 Capstone\HelloWorld\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\novel\Desktop\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>I:\School stuff\CS4760 Capstone\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>17849052E74066AABBABE511DE04DF5787EA3D737C7F21AE3CD4FA4F89D8FD34</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>a4ecdf71-e8cd-4fb6-92d6-338c8441d8ba_1.0.0.0_x64__g0r8g00yj4c4p</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>a4ecdf71-e8cd-4fb6-92d6-338c8441d8ba_g0r8g00yj4c4p!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\novel\Desktop\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="I:\School stuff\CS4760 Capstone\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-09T22:52:35.597</Modified>
+      <Modified>2022-09-11T20:45:45.823</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-09-09T22:52:35.361</Modified>
+      <Modified>2022-09-11T20:45:45.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.runtimeconfig.json">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.runtimeconfig.json">
       <PackagePath>HelloWorld.runtimeconfig.json</PackagePath>
-      <Modified>2022-09-09T22:51:29.118</Modified>
+      <Modified>2022-09-11T20:20:58.129</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.dll">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.dll">
       <PackagePath>HelloWorld.dll</PackagePath>
-      <Modified>2022-09-09T22:52:35.270</Modified>
+      <Modified>2022-09-11T20:45:45.287</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>HelloWorld.exe</PackagePath>
-      <Modified>2022-09-09T22:52:35.274</Modified>
+      <Modified>2022-09-11T20:45:45.307</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.deps.json">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.deps.json">
       <PackagePath>HelloWorld.deps.json</PackagePath>
-      <Modified>2022-09-09T22:51:29.115</Modified>
+      <Modified>2022-09-11T20:20:58.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\novel\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1081,31 +1081,31 @@
       <PackagePath>e_sqlite3.dll</PackagePath>
       <Modified>2021-09-03T18:02:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2022-09-09T02:22:35.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <Modified>2022-09-09T02:22:35.144</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <Modified>2022-09-09T02:22:35.145</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <Modified>2022-09-09T02:22:35.146</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <Modified>2022-09-09T02:22:35.146</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <Modified>2022-09-09T02:22:35.146</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\novel\Desktop\HelloWorld\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="I:\School stuff\CS4760 Capstone\HelloWorld\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <Modified>2022-09-09T02:22:35.147</Modified>
     </AppxPackagedFile>

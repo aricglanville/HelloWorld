@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "07WjETH1sNMmRex0lTblymTRvDtUicguXFDFNgQdsvR5pNsP/Q3UwuCAydvpKfHpciS2Q8PBmgCjeJkxHG4l4Q==",
+  "dgSpecHash": "3iCdwAVsRm1w721zL7wOXI0sDjNk5Wrdu1V6QV1cF4KZhltYj8vufVJKbnnkDCcZQ138Wu86m/yNUb4QDH8kog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\novel\\Desktop\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "I:\\School stuff\\CS4760 Capstone\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\novel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\novel\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
