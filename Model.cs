@@ -20,6 +20,8 @@ public class WordContext : DbContext
     // special "local" folder for your platform.
     protected override void OnConfiguring(DbContextOptionsBuilder options)
         => options.UseSqlite($"Data Source={DbPath}");
+    //this is landons test comment for git test
+    Console.WriteLine("beans");
 }
 
 public class Word

@@ -1,1 +1,1 @@
-I:\School stuff\CS4760 Capstone\HelloWorld\HelloWorld.csproj;x64
+C:\Users\LandonGeorge\Desktop\school\CS4760Capstone\HelloWorld\HelloWorld.csproj;x64

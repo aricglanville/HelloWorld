@@ -33,6 +33,7 @@ namespace HelloWorld
                 .OrderBy(b => b.WordId)
                 .Last();
             displayText.Text = input.SavedWord.ToString();
+            Console.WriteLine("beans");
         }
     }
 }
