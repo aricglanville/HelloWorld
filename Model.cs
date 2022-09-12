@@ -13,6 +13,7 @@ public class WordContext : DbContext
         var folder = Environment.SpecialFolder.LocalApplicationData;
         var path = Environment.GetFolderPath(folder);
         DbPath = System.IO.Path.Join(path, "word.db");
+        Database.EnsureCreated();
     }
 
     // The following configures EF to create a Sqlite database file in the
