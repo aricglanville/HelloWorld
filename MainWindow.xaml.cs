@@ -35,6 +35,9 @@ namespace HelloWorld
             displayText.Text = input.SavedWord.ToString();
             Console.WriteLine("testing git");
             Console.WriteLine("for brad");
+
+            Console.WriteLine("Testing Git Changes");
+
             Console.WriteLine("Hello World");
         }
     }
