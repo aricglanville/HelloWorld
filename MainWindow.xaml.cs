@@ -34,6 +34,8 @@ namespace HelloWorld
                 .Last();
             displayText.Text = input.SavedWord.ToString();
             Console.WriteLine("testing git");
+
+            Console.WriteLine("Hello World");
         }
     }
 }
