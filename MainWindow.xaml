@@ -8,7 +8,7 @@
     mc:Ignorable="d">
 
     <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
-        <TextBox x:Name="saveText"/>
+        <TextBox x:Name="saveText" PlaceholderText="Enter word to save here"/>
         <Button x:Name="saveButton" Click="saveButton_Click">Save Word</Button>
         <Button x:Name="displayButton" Click="displayButton_Click">Display Word</Button>
         <TextBox x:Name="displayText"/>
