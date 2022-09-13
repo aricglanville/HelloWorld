@@ -1,1 +1,0 @@
-C:\Users\alphaLima\Development\VisualStudio\HelloWorld\HelloWorld.csproj;x64
