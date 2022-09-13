@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-09-13T00:21:57.078</Modified>
+      <Modified>2022-09-13T00:27:20.141</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-09-13T00:21:56.823</Modified>
+      <Modified>2022-09-13T00:27:19.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.runtimeconfig.json">
       <PackagePath>HelloWorld.runtimeconfig.json</PackagePath>
-      <Modified>2022-09-13T00:21:56.650</Modified>
+      <Modified>2022-09-13T00:27:19.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.dll">
       <PackagePath>HelloWorld.dll</PackagePath>
-      <Modified>2022-09-13T00:21:56.420</Modified>
+      <Modified>2022-09-13T00:27:19.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>HelloWorld.exe</PackagePath>
-      <Modified>2022-09-13T00:21:56.436</Modified>
+      <Modified>2022-09-13T00:27:19.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\HelloWorld.deps.json">
       <PackagePath>HelloWorld.deps.json</PackagePath>
-      <Modified>2022-09-13T00:21:56.648</Modified>
+      <Modified>2022-09-13T00:27:19.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1083,31 +1083,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2022-09-13T00:20:03.806</Modified>
+      <Modified>2022-09-13T00:26:44.901</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-09-13T00:20:03.806</Modified>
+      <Modified>2022-09-13T00:26:44.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <Modified>2022-09-13T00:20:03.806</Modified>
+      <Modified>2022-09-13T00:26:44.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <Modified>2022-09-13T00:20:03.807</Modified>
+      <Modified>2022-09-13T00:26:44.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <Modified>2022-09-13T00:20:03.807</Modified>
+      <Modified>2022-09-13T00:26:44.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <Modified>2022-09-13T00:20:03.807</Modified>
+      <Modified>2022-09-13T00:26:44.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alphaLima\Development\VisualStudio\HelloWorld\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2022-09-13T00:20:03.807</Modified>
+      <Modified>2022-09-13T00:26:44.903</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
